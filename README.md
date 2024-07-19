@@ -1,6 +1,6 @@
 # Amazon-Sales-Report-Power-BI- 
 **Situation:**
-I analyzED a dataset consisting of more than **1,OO,000+** entries. The dataset included various columns such as Order ID, Date, Status, Fulfilment, Sales Channel, Ship Service Level, Style, SKU, Category, Size, ASIN, Courier Status, Quantity, Currency, Amount, Ship City, Ship State, Ship Postal Code, Ship Country, Promotion IDs, B2B, Fulfilled By, and an unnamed column. The primary goal of the analysis was to identify **key performance indicators (KPIs)**, perform thorough **data cleaning, and create visualizations** and **dashboards** to get actionable insights into sales performance.
+I analyzed a dataset consisting of more than **1,OO,000+** entries. The dataset included various columns such as Order ID, Date, Status, Fulfilment, Sales Channel, Ship Service Level, Style, SKU, Category, Size, ASIN, Courier Status, Quantity, Currency, Amount, Ship City, Ship State, Ship Postal Code, Ship Country, Promotion IDs, B2B, Fulfilled By, and an unnamed column. The primary goal of the analysis was to identify **key performance indicators (KPIs)**, perform thorough **data cleaning, and create visualizations** and **dashboards** to get actionable insights into sales performance.
 
 **Action:**
 
